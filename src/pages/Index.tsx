@@ -54,7 +54,7 @@ const Index = () => {
         <div className="container">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
-              <h1 className="md:text-6xl leading-tight px-0 text-5xl font-extrabold mx-0">
+              <h1 className="md:text-6xl leading-tight px-0 font-extrabold mx-0 text-4xl">
                 Профессиональная бухгалтерия для вашего бизнеса
               </h1>
               <p className="text-xl text-muted-foreground">
