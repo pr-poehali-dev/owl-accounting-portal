@@ -54,7 +54,7 @@ const Index = () => {
         <div className="container">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
-              <h1 className="md:text-6xl font-bold leading-tight text-5xl">
+              <h1 className="md:text-6xl leading-tight px-0 text-5xl font-extrabold mx-0">
                 Профессиональная бухгалтерия для вашего бизнеса
               </h1>
               <p className="text-xl text-muted-foreground">
@@ -71,7 +71,7 @@ const Index = () => {
                 </Button>
               </div>
             </div>
-            <div className="relative animate-scale-in">
+            <div className="relative animate-scale-in bg-transparent">
               <img 
                 src="https://cdn.poehali.dev/projects/9bd29bfc-b3f5-409c-b828-c3d8d1dd5eb0/files/45f125c8-ba6b-484f-b2f0-635e90def22d.jpg" 
                 alt="Сова-маскот компании с калькулятором"
